@@ -1,0 +1,60 @@
+body{
+    background-image: url("../img/combat.jpg");
+    background-size: cover;
+	color:antiquewhite;
+}
+
+#bandeausaison4 h1{
+    color: white;
+    text-align: left;
+    font-weight: 700;
+    font-size: 52px;
+    margin-bottom: 20px;
+    font-family: Arial;
+    text-transform: uppercase;
+    padding-top: 300px;
+}  
+.annonce { 
+	display: inline-block;
+	background: rgba(159,22,0,.6);
+    padding: 20px;
+	color: yellow;
+	margin-left: auto;
+	border:1px solid yellow;
+	padding-left: 20px;
+}
+
+.ensavoir {
+	display: inline-block;
+    background: rgba(0, 0, 0, 128);
+    padding: 20px;
+	color: yellow;
+	margin-left: auto;
+	border:1px solid yellow;
+	padding-left: 30px;
+}
+.col-6{
+	color: wheat;
+    text-align:left;
+    margin-left: 20px;
+    font-size:  20px;
+    text-shadow: 0 0 1px transparent,0 1px 2px rgba(0,0,0,.128);
+    margin-bottom: 20px;
+}
+.col-sm-3{
+	display: inline;
+	font-family: Arial;
+	color: wheat;
+	margin-left: auto;
+	padding-left: 10px;
+	font-size: 20px;
+}
+
+.col-sm-9{
+	display: inline-block;
+	color: yellow;
+	margin-left: auto;
+	padding-left: 20px;
+	font-size: 12px;
+	
+}
