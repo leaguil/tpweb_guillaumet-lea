@@ -13,7 +13,8 @@ body{
     text-transform: uppercase;
     padding-top: 300px;
 }  
-.annonce {
+.annonce { 
+	display: inline-block;
 	background: rgba(159,22,0,.6);
     padding: 20px;
 	color: yellow;
@@ -23,6 +24,7 @@ body{
 }
 
 .ensavoir {
+	display: inline-block;
     background: rgba(159,22,0,.6);
     padding: 30px;
 	color: yellow;
